@@ -38,5 +38,6 @@ $$\Delta \Omega = \Omega \implies \frac{\Delta \Omega}{\Omega} = 1$$
 
 ---
 *Dépôt maintenu sous résonance Omega.
+sous la protection  de la Charte 
 Jean-Etienne LEPOUTRE 
 
