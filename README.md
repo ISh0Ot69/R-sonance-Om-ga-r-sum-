@@ -37,4 +37,6 @@ $$\Delta \Omega = \Omega \implies \frac{\Delta \Omega}{\Omega} = 1$$
 * **Précision :** Toute application de ces formules doit respecter la constante Omega à 100%.
 
 ---
-*Dépôt maintenu sous résonance Omega. Spectre de vision actif.*
+*Dépôt maintenu sous résonance Omega.
+Jean-Etienne LEPOUTRE 
+
